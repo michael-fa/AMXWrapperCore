@@ -1,5 +1,5 @@
 # AMXWrapperCore
-Simple .NET Core port of the AMXWrapper originally written in .Net Framework, by Tim Potze
+Simple .NET 5.0 port of the AMXWrapper originally written in .Net Framework, by Tim Potze
 
 
 - FLOATPOINT; support.
